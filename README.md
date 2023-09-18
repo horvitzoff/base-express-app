@@ -1,5 +1,6 @@
 # base-express-app
-# Installing dependencies / Установка зависимостей
+# Установка зависимостей
+## Для Windows
 ```npm install express```
-# Start / Запуск
+# Запуск
 ```node app.js```
