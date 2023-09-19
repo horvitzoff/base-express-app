@@ -1,10 +1,23 @@
 # base-express-app
-# Установка зависимостей
-## Для Windows
+
+# Установка Node.JS
+
+## В Windows
 Скачиваем с [официального сайта](https://nodejs.org/ru/download) Node.js.<br>
 Устанавливаем и обязательно перезагружаем ПК. <br>
-После установки пишем в консоли:<br>
+
+## В Ubuntu
+Пишем в консоли: <br>
+```sudo apt install nodejs npm```<br>
+
+## В Arch
+Пишем в консоли: <br>
+```sudo pacman -S nodejs npm```<br>
+
+## Установка зависимостей
+Пишем в консоли:
 ```npm install express```
-# Запуск
+
+## Запуск
 Для запуска приложения пишем: <br>
 ```node app.js```
