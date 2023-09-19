@@ -6,11 +6,11 @@
 Скачиваем с [официального сайта](https://nodejs.org/ru/download) Node.js.<br>
 Устанавливаем и обязательно перезагружаем ПК. <br>
 
-## В Ubuntu
+## В Ubuntu / Debian
 Пишем в консоли: <br>
 ```sudo apt install nodejs npm```<br>
 
-## В Arch
+## В Arch / Manjaro
 Пишем в консоли: <br>
 ```sudo pacman -S nodejs npm```<br>
 
