@@ -15,8 +15,7 @@ app.use(express.static('public'));
 
 // Define a route for the root URL
 app.get('/', (req, res) => {
-    let html = make_main_html();
-    res.send(html);
+    res.render('index');
 });
 
 // Start the server
